@@ -29,17 +29,6 @@ To run locally, download `index.html` and open it in a modern browser such as Ch
 - Browser `localStorage` for saved signal IDs
 - No external JavaScript framework or package dependencies
 
-## Deploy with GitHub Pages
-
-1. Create a **public** repository on GitHub (for example, `gcc-signal`).
-2. Upload `index.html` and `README.md` to the repository's **root** directory. Keep the filename exactly `index.html`—GitHub Pages uses it as the website entry point.
-3. Open **Settings → Pages** in the repository.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select branch **`main`** and folder **`/(root)`**, then click **Save**.
-6. Wait for the Pages deployment to finish. Return to **Settings → Pages** and open the published site URL.
-7. Test the published URL in a private/incognito window and on a phone before sharing it.
-
-GitHub's official instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site and https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
 ## Current limitations
 
